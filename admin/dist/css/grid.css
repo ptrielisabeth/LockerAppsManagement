@@ -1,0 +1,129 @@
+// Breakpoint Label showing current media query state.
+body:after {
+    background: red;
+    font-family: sans-serif;
+    font-size:10px;
+    border-radius: 0 0 8px 0;
+    text-transform: uppercase;
+    color: white;
+    content: "undefined";
+    left: 0;
+    padding: .5em 1em;
+    position: fixed;
+    text-align: center;
+    top: 0;
+    z-index: 999;
+
+    .overlay (@color,@title) {
+        background: fade(@color,50%);
+        content: @title;
+        text-shadow:
+            0px 0px 10px spin(darken(@color,40%),-25),
+            1px 1px 5px spin(darken(@color,20%),-25)
+        ;
+        box-shadow: 0px 0px 5px lighten(@color,20%);
+    }
+  
+    @media @phone { .overlay(magenta,"phone") }
+    @media @tablet { .overlay(blue,"tablet") }
+    @media @desktop { .overlay(green,"desktop") }
+    @media @desktop-xl { .overlay(red,"desktop-xl") }
+}
+
+
+
+
+// Breakpoints
+// Source: http://blog.scur.pl/2012/06/variable-media-queries-less-css/
+@highdensity: ~"only screen and (-webkit-min-device-pixel-ratio: 1.5)",
+              ~"only screen and (min--moz-device-pixel-ratio: 1.5)",
+              ~"only screen and (-o-min-device-pixel-ratio: 3/2)",
+              ~"only screen and (min-device-pixel-ratio: 1.5)";
+@phone:       ~"only screen and (max-width: 529px)";
+  @notPhone:  ~"only screen and (min-width: 530px)"; // Everything bigger than phone
+@tablet:      ~"only screen and (min-width: 530px) and (max-width: 768px)";
+@mobile:      ~"only screen and (max-width: 768px)"; // Phones and Tablets
+  @notMobile: ~"only screen and (min-width: 769px)"; // Everything bigger than phone and tablet
+@desktop:     ~"only screen and (min-width: 769px) and (max-width: 1128px)";
+@desktop-xl:  ~"only screen and (min-width: 1129px)";
+
+
+
+
+@gridColumns: 12;
+@gridGutterWidth: 1rem;
+@gridColumnWidth: @gridColumns - 1;
+#grid {
+    text-align: justify!important;
+    text-justify: distribute-all-lines;
+    font-size: 0!important;
+    &:after {
+        content: '';
+        display: inline-block;
+        width: 100%;
+    }
+    & > * {
+        text-align: left;
+        font-size: medium;
+    }
+    .cell() {
+        vertical-align: top;
+        display: inline-block;
+        width: 100%;
+        box-sizing: border-box;
+    }
+    .span(@cols, @total: @gridColumns) {
+        @gutterCalc: @total / @cols;
+        @totalGutter: (@gutterCalc - 1) * @gridGutterWidth;
+        width: calc( ~"(100% - @{totalGutter}) / @{gutterCalc}" );
+        margin-bottom: @gridGutterWidth;
+    }
+    .push(@cols, @total: @gridColumns) {
+        //eft: percentage((@gridColumnWidth + @gridGutterWidth) * @cols /
+                        //(@gridColumnWidth * @total + @gridGutterWidth * (@total - 1)));
+        @gutterCalc: @total / @cols;
+        @totalGutter: (@gutterCalc - 1) * @gridGutterWidth;
+        left: calc( ~"(100% - @{totalGutter}) / @{gutterCalc} + @{gridGutterWidth}" );
+    }
+    .pull(@cols, @total: @gridColumns) {
+        //left: percentage((@gridColumnWidth + @gridGutterWidth) * -@cols /
+                        //(@gridColumnWidth * @total + @gridGutterWidth * (@total - 1)));
+        @gutterCalc: @total / @cols;
+        @totalGutter: (@gutterCalc - 1) * @gridGutterWidth;
+        left: calc( ~"( (100% - @{totalGutter}) / @{gutterCalc} + @{gridGutterWidth} ) * -1" );
+    }
+}
+
+
+
+
+/* EXAMPLE GRID  */
+section {
+    #grid;
+    
+    .whole {
+        #grid > .cell;
+        #grid > .span (12)
+    }
+  
+    > div {
+        #grid > .cell;
+        
+        &.whole { #grid > .span (12) }
+        &.half { #grid > .span (6) }
+        &.third {
+            #grid > .span (4);
+            @media @mobile { #grid > .span (12) }
+            @media @desktop-xl { #grid > .span (3) }
+        }
+        &.fourth {
+            #grid > .span (3);
+            @media @mobile { #grid > .span (6) }
+        }
+        &.eighth {
+            #grid > .span (8);
+            @media @mobile { #grid > .span (12) }
+            @media @desktop-xl { #grid > .span (9) }
+        }
+    }
+}

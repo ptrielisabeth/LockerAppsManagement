@@ -1,0 +1,583 @@
+[20-Sep-2022 01:47:49 UTC] PHP Notice:  Undefined index: forget_count in D:\Apps\sere\act_pass.php on line 4
+[26-Sep-2022 02:29:51 UTC] PHP Notice:  Undefined index: forget_count in D:\Apps\sere\act_pass.php on line 4
+[30-Dec-2022 07:20:58 UTC] PHP Warning:  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\Apps\sere\testi.php on line 14
+[30-Dec-2022 07:20:58 UTC] PHP Warning:  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\Apps\sere\testi.php on line 15
+[30-Dec-2022 07:20:58 UTC] PHP Warning:  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\Apps\sere\testi.php on line 16
+[30-Dec-2022 07:20:58 UTC] PHP Warning:  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\Apps\sere\testi.php on line 26
+[30-Dec-2022 07:20:58 UTC] PHP Warning:  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\Apps\sere\testi.php on line 27
+[30-Dec-2022 07:20:58 UTC] PHP Warning:  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\Apps\sere\testi.php on line 28
+[30-Dec-2022 07:20:58 UTC] PHP Warning:  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\Apps\sere\testi.php on line 42
+[30-Dec-2022 07:20:58 UTC] PHP Warning:  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\Apps\sere\testi.php on line 43
+[30-Dec-2022 07:20:58 UTC] PHP Warning:  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\Apps\sere\testi.php on line 44
+[30-Dec-2022 07:20:58 UTC] PHP Warning:  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\Apps\sere\testi.php on line 46
+[30-Dec-2022 07:20:58 UTC] PHP Warning:  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\Apps\sere\testi.php on line 47
+[30-Dec-2022 07:20:58 UTC] PHP Warning:  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\Apps\sere\testi.php on line 48
+[30-Dec-2022 07:20:58 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in D:\Apps\sere\testi.php on line 264
+[30-Dec-2022 07:20:58 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.;C:\php\pear') in D:\Apps\sere\testi.php on line 264
+[30-Dec-2022 07:20:58 UTC] PHP Warning:  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\Apps\sere\testi.php on line 297
+[30-Dec-2022 07:20:58 UTC] PHP Warning:  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\Apps\sere\testi.php on line 298
+[30-Dec-2022 07:20:58 UTC] PHP Warning:  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\Apps\sere\testi.php on line 301
+[30-Dec-2022 07:20:58 UTC] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, bool given in D:\Apps\sere\testi.php on line 351
+[30-Dec-2022 07:20:58 UTC] PHP Warning:  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\Apps\sere\testi.php on line 357
+[30-Dec-2022 07:20:58 UTC] PHP Notice:  Undefined variable: rack in D:\Apps\sere\testi.php on line 482
+[30-Dec-2022 07:21:10 UTC] PHP Warning:  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\Apps\sere\testi.php on line 14
+[30-Dec-2022 07:21:10 UTC] PHP Warning:  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\Apps\sere\testi.php on line 15
+[30-Dec-2022 07:21:10 UTC] PHP Warning:  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\Apps\sere\testi.php on line 16
+[30-Dec-2022 07:21:10 UTC] PHP Warning:  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\Apps\sere\testi.php on line 26
+[30-Dec-2022 07:21:10 UTC] PHP Warning:  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\Apps\sere\testi.php on line 27
+[30-Dec-2022 07:21:10 UTC] PHP Warning:  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\Apps\sere\testi.php on line 28
+[30-Dec-2022 07:21:10 UTC] PHP Warning:  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\Apps\sere\testi.php on line 42
+[30-Dec-2022 07:21:10 UTC] PHP Warning:  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\Apps\sere\testi.php on line 43
+[30-Dec-2022 07:21:10 UTC] PHP Warning:  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\Apps\sere\testi.php on line 44
+[30-Dec-2022 07:21:10 UTC] PHP Warning:  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\Apps\sere\testi.php on line 46
+[30-Dec-2022 07:21:10 UTC] PHP Warning:  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\Apps\sere\testi.php on line 47
+[30-Dec-2022 07:21:10 UTC] PHP Warning:  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\Apps\sere\testi.php on line 48
+[30-Dec-2022 07:21:10 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in D:\Apps\sere\testi.php on line 264
+[30-Dec-2022 07:21:10 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.;C:\php\pear') in D:\Apps\sere\testi.php on line 264
+[30-Dec-2022 07:21:10 UTC] PHP Warning:  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\Apps\sere\testi.php on line 297
+[30-Dec-2022 07:21:10 UTC] PHP Warning:  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\Apps\sere\testi.php on line 298
+[30-Dec-2022 07:21:10 UTC] PHP Warning:  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\Apps\sere\testi.php on line 301
+[30-Dec-2022 07:21:10 UTC] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, bool given in D:\Apps\sere\testi.php on line 351
+[30-Dec-2022 07:21:10 UTC] PHP Warning:  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\Apps\sere\testi.php on line 357
+[30-Dec-2022 07:21:10 UTC] PHP Notice:  Undefined variable: rack in D:\Apps\sere\testi.php on line 482
+[12-Jun-2023 07:08:02 UTC] PHP Warning:  include(../../lockers2/config.php): failed to open stream: No such file or directory in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:08:02 UTC] PHP Warning:  include(): Failed opening '../../lockers2/config.php' for inclusion (include_path='.;C:\php\pear') in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:08:17 UTC] PHP Warning:  include(../../lockers2/config.php): failed to open stream: No such file or directory in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:08:17 UTC] PHP Warning:  include(): Failed opening '../../lockers2/config.php' for inclusion (include_path='.;C:\php\pear') in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:08:44 UTC] PHP Warning:  include(../../lockers2/config.php): failed to open stream: No such file or directory in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:08:44 UTC] PHP Warning:  include(): Failed opening '../../lockers2/config.php' for inclusion (include_path='.;C:\php\pear') in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:08:53 UTC] PHP Warning:  include(../../lockers2/config.php): failed to open stream: No such file or directory in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:08:53 UTC] PHP Warning:  include(): Failed opening '../../lockers2/config.php' for inclusion (include_path='.;C:\php\pear') in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:09:37 UTC] PHP Warning:  include(../../lockers2/config.php): failed to open stream: No such file or directory in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:09:38 UTC] PHP Warning:  include(): Failed opening '../../lockers2/config.php' for inclusion (include_path='.;C:\php\pear') in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:10:44 UTC] PHP Warning:  include(../../lockers2/config.php): failed to open stream: No such file or directory in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:10:44 UTC] PHP Warning:  include(): Failed opening '../../lockers2/config.php' for inclusion (include_path='.;C:\php\pear') in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:10:49 UTC] PHP Warning:  include(../../lockers2/config.php): failed to open stream: No such file or directory in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:10:49 UTC] PHP Warning:  include(): Failed opening '../../lockers2/config.php' for inclusion (include_path='.;C:\php\pear') in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:11:17 UTC] PHP Warning:  include(../../lockers2/config.php): failed to open stream: No such file or directory in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:11:17 UTC] PHP Warning:  include(): Failed opening '../../lockers2/config.php' for inclusion (include_path='.;C:\php\pear') in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:12:24 UTC] PHP Warning:  include(../../lockers2/config.php): failed to open stream: No such file or directory in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:12:24 UTC] PHP Warning:  include(): Failed opening '../../lockers2/config.php' for inclusion (include_path='.;C:\php\pear') in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:12:24 UTC] PHP Warning:  include(../../lockers2/config.php): failed to open stream: No such file or directory in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:12:24 UTC] PHP Warning:  include(): Failed opening '../../lockers2/config.php' for inclusion (include_path='.;C:\php\pear') in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:12:29 UTC] PHP Warning:  include(../../lockers2/config.php): failed to open stream: No such file or directory in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:12:29 UTC] PHP Warning:  include(): Failed opening '../../lockers2/config.php' for inclusion (include_path='.;C:\php\pear') in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:13:08 UTC] PHP Warning:  include(../../lockers2/config.php): failed to open stream: No such file or directory in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:13:08 UTC] PHP Warning:  include(): Failed opening '../../lockers2/config.php' for inclusion (include_path='.;C:\php\pear') in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:14:17 UTC] PHP Warning:  include(../../lockers2/config.php): failed to open stream: No such file or directory in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:14:17 UTC] PHP Warning:  include(): Failed opening '../../lockers2/config.php' for inclusion (include_path='.;C:\php\pear') in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:23:06 UTC] PHP Warning:  include(../../lockers2/config.php): failed to open stream: No such file or directory in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:23:06 UTC] PHP Warning:  include(): Failed opening '../../lockers2/config.php' for inclusion (include_path='.;C:\php\pear') in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:23:11 UTC] PHP Warning:  include(../../lockers2/config.php): failed to open stream: No such file or directory in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:23:11 UTC] PHP Warning:  include(): Failed opening '../../lockers2/config.php' for inclusion (include_path='.;C:\php\pear') in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:27:57 UTC] PHP Warning:  include(../../lockers2/config.php): failed to open stream: No such file or directory in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:27:57 UTC] PHP Warning:  include(): Failed opening '../../lockers2/config.php' for inclusion (include_path='.;C:\php\pear') in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:28:39 UTC] PHP Warning:  include(../../lockers2/config.php): failed to open stream: No such file or directory in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:28:39 UTC] PHP Warning:  include(): Failed opening '../../lockers2/config.php' for inclusion (include_path='.;C:\php\pear') in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:28:52 UTC] PHP Warning:  include(../../lockers2/config.php): failed to open stream: No such file or directory in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:28:52 UTC] PHP Warning:  include(): Failed opening '../../lockers2/config.php' for inclusion (include_path='.;C:\php\pear') in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:31:02 UTC] PHP Warning:  include(../../lockers2/config.php): failed to open stream: No such file or directory in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:31:02 UTC] PHP Warning:  include(): Failed opening '../../lockers2/config.php' for inclusion (include_path='.;C:\php\pear') in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:31:55 UTC] PHP Warning:  include(../../lockers2/config.php): failed to open stream: No such file or directory in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 07:31:55 UTC] PHP Warning:  include(): Failed opening '../../lockers2/config.php' for inclusion (include_path='.;C:\php\pear') in D:\Apps\sere\sere\lockers2\index.php on line 4
+[12-Jun-2023 08:34:58 UTC] PHP Notice:  Undefined index: forget_count in D:\Apps\sere\sere\lockers2\act_pass.php on line 4
+[14-Jun-2023 01:35:15 UTC] PHP Notice:  Undefined index: forget_count in D:\Apps\sere\sere\lockers2\act_pass.php on line 4
+[14-Jun-2023 01:35:57 UTC] PHP Notice:  Undefined index: forget_count in D:\Apps\sere\sere\lockers2\act_pass.php on line 4
+[14-Jun-2023 03:43:19 UTC] PHP Notice:  Undefined index: forget_count in D:\Apps\sere\sere\lockers2\act_pass.php on line 4
+[14-Jun-2023 04:05:15 UTC] PHP Notice:  Undefined index: forget_count in D:\Apps\sere\sere\lockers2\act_pass.php on line 4
+[14-Jun-2023 06:11:22 UTC] PHP Notice:  Undefined index: forget_count in D:\Apps\sere\sere\lockers2\act_pass.php on line 4
+[14-Jun-2023 08:26:58 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 67
+[14-Jun-2023 08:26:58 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 68
+[14-Jun-2023 08:26:58 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 08:26:58 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 08:26:58 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 110
+[14-Jun-2023 08:26:58 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 113
+[14-Jun-2023 08:26:58 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 114
+[14-Jun-2023 08:26:58 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 115
+[14-Jun-2023 08:28:28 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 67
+[14-Jun-2023 08:28:28 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 68
+[14-Jun-2023 08:28:28 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 08:28:28 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 82
+[14-Jun-2023 08:28:28 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 109
+[14-Jun-2023 08:28:28 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 112
+[14-Jun-2023 08:28:28 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 113
+[14-Jun-2023 08:28:28 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 114
+[14-Jun-2023 08:28:35 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 67
+[14-Jun-2023 08:28:35 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 68
+[14-Jun-2023 08:28:35 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 08:28:35 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 82
+[14-Jun-2023 08:28:35 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 109
+[14-Jun-2023 08:28:35 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 112
+[14-Jun-2023 08:28:35 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 113
+[14-Jun-2023 08:28:35 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 114
+[14-Jun-2023 08:29:46 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 67
+[14-Jun-2023 08:29:46 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 68
+[14-Jun-2023 08:29:46 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 08:29:46 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 82
+[14-Jun-2023 08:29:46 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 109
+[14-Jun-2023 08:29:46 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 112
+[14-Jun-2023 08:29:46 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 113
+[14-Jun-2023 08:29:46 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 114
+[14-Jun-2023 08:29:51 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 67
+[14-Jun-2023 08:29:51 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 68
+[14-Jun-2023 08:29:51 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 08:29:51 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 82
+[14-Jun-2023 08:29:51 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 109
+[14-Jun-2023 08:29:51 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 112
+[14-Jun-2023 08:29:51 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 113
+[14-Jun-2023 08:29:51 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 114
+[14-Jun-2023 08:30:36 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 67
+[14-Jun-2023 08:30:36 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 68
+[14-Jun-2023 08:30:36 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 08:30:36 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 82
+[14-Jun-2023 08:30:36 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 109
+[14-Jun-2023 08:30:36 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 112
+[14-Jun-2023 08:30:36 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 113
+[14-Jun-2023 08:30:36 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 114
+[14-Jun-2023 08:31:02 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 67
+[14-Jun-2023 08:31:02 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 68
+[14-Jun-2023 08:31:02 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 08:31:02 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 82
+[14-Jun-2023 08:31:02 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 109
+[14-Jun-2023 08:31:02 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 112
+[14-Jun-2023 08:31:02 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 113
+[14-Jun-2023 08:31:02 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 114
+[14-Jun-2023 08:31:07 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 67
+[14-Jun-2023 08:31:07 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 68
+[14-Jun-2023 08:31:07 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 08:31:07 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 82
+[14-Jun-2023 08:31:07 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 109
+[14-Jun-2023 08:31:07 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 112
+[14-Jun-2023 08:31:07 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 113
+[14-Jun-2023 08:31:07 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 114
+[14-Jun-2023 08:31:07 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 67
+[14-Jun-2023 08:31:07 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 68
+[14-Jun-2023 08:31:07 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 08:31:07 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 82
+[14-Jun-2023 08:31:07 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 109
+[14-Jun-2023 08:31:07 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 112
+[14-Jun-2023 08:31:07 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 113
+[14-Jun-2023 08:31:07 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 114
+[14-Jun-2023 08:32:24 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 67
+[14-Jun-2023 08:32:24 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 68
+[14-Jun-2023 08:32:24 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 08:32:24 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 82
+[14-Jun-2023 08:32:24 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 109
+[14-Jun-2023 08:32:24 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 112
+[14-Jun-2023 08:32:24 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 113
+[14-Jun-2023 08:32:24 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 114
+[14-Jun-2023 08:32:28 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 67
+[14-Jun-2023 08:32:28 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 68
+[14-Jun-2023 08:32:28 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 08:32:28 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 82
+[14-Jun-2023 08:32:28 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 109
+[14-Jun-2023 08:32:28 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 112
+[14-Jun-2023 08:32:28 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 113
+[14-Jun-2023 08:32:28 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 114
+[14-Jun-2023 08:37:02 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 67
+[14-Jun-2023 08:37:02 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 68
+[14-Jun-2023 08:37:02 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 08:37:02 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 82
+[14-Jun-2023 08:37:02 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 109
+[14-Jun-2023 08:37:02 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 112
+[14-Jun-2023 08:37:02 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 113
+[14-Jun-2023 08:37:02 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 114
+[14-Jun-2023 08:40:24 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 67
+[14-Jun-2023 08:40:24 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 68
+[14-Jun-2023 08:40:24 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 08:40:24 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 82
+[14-Jun-2023 08:40:24 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 109
+[14-Jun-2023 08:40:24 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 112
+[14-Jun-2023 08:40:24 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 113
+[14-Jun-2023 08:40:24 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 114
+[14-Jun-2023 08:40:57 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 67
+[14-Jun-2023 08:40:57 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 68
+[14-Jun-2023 08:40:57 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 08:40:57 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 82
+[14-Jun-2023 08:40:57 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 109
+[14-Jun-2023 08:40:57 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 112
+[14-Jun-2023 08:40:57 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 113
+[14-Jun-2023 08:40:57 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 114
+[14-Jun-2023 08:41:02 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 67
+[14-Jun-2023 08:41:02 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 68
+[14-Jun-2023 08:41:02 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 08:41:02 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 82
+[14-Jun-2023 08:41:02 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 109
+[14-Jun-2023 08:41:02 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 112
+[14-Jun-2023 08:41:02 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 113
+[14-Jun-2023 08:41:02 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 114
+[14-Jun-2023 08:41:15 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 67
+[14-Jun-2023 08:41:15 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 68
+[14-Jun-2023 08:41:15 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 08:41:15 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 82
+[14-Jun-2023 08:41:15 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 109
+[14-Jun-2023 08:41:15 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 112
+[14-Jun-2023 08:41:15 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 113
+[14-Jun-2023 08:41:15 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 114
+[14-Jun-2023 08:42:12 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 67
+[14-Jun-2023 08:42:12 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 68
+[14-Jun-2023 08:42:12 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 08:42:12 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 82
+[14-Jun-2023 08:42:12 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 109
+[14-Jun-2023 08:42:12 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 112
+[14-Jun-2023 08:42:12 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 113
+[14-Jun-2023 08:42:12 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 114
+[14-Jun-2023 08:42:27 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 67
+[14-Jun-2023 08:42:27 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 68
+[14-Jun-2023 08:42:27 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 08:42:27 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 82
+[14-Jun-2023 08:42:27 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 109
+[14-Jun-2023 08:42:27 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 112
+[14-Jun-2023 08:42:27 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 113
+[14-Jun-2023 08:42:27 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 114
+[14-Jun-2023 08:43:18 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 67
+[14-Jun-2023 08:43:18 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 68
+[14-Jun-2023 08:43:18 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 08:43:18 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 82
+[14-Jun-2023 08:43:18 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 109
+[14-Jun-2023 08:43:18 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 112
+[14-Jun-2023 08:43:18 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 113
+[14-Jun-2023 08:43:18 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 114
+[14-Jun-2023 08:43:21 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 67
+[14-Jun-2023 08:43:21 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 68
+[14-Jun-2023 08:43:21 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 08:43:21 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 82
+[14-Jun-2023 08:43:21 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 109
+[14-Jun-2023 08:43:21 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 112
+[14-Jun-2023 08:43:21 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 113
+[14-Jun-2023 08:43:21 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 114
+[14-Jun-2023 08:43:29 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 67
+[14-Jun-2023 08:43:29 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 68
+[14-Jun-2023 08:43:29 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 08:43:29 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 82
+[14-Jun-2023 08:43:29 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 109
+[14-Jun-2023 08:43:29 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 112
+[14-Jun-2023 08:43:29 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 113
+[14-Jun-2023 08:43:29 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 114
+[14-Jun-2023 08:47:05 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 08:47:05 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 08:47:05 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 08:47:05 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 08:47:05 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 117
+[14-Jun-2023 08:47:05 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 120
+[14-Jun-2023 08:47:05 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 121
+[14-Jun-2023 08:47:05 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 122
+[14-Jun-2023 08:47:18 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 08:47:18 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 08:47:18 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 08:47:18 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 08:47:18 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 117
+[14-Jun-2023 08:47:18 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 120
+[14-Jun-2023 08:47:18 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 121
+[14-Jun-2023 08:47:18 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 122
+[14-Jun-2023 09:03:12 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 09:03:12 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 09:03:12 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 09:03:12 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 09:03:12 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 117
+[14-Jun-2023 09:03:12 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 120
+[14-Jun-2023 09:03:12 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 121
+[14-Jun-2023 09:03:12 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 122
+[14-Jun-2023 09:04:41 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 09:04:41 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 09:04:41 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 09:04:41 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 09:04:41 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 117
+[14-Jun-2023 09:04:41 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 120
+[14-Jun-2023 09:04:41 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 121
+[14-Jun-2023 09:04:41 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 122
+[14-Jun-2023 09:08:16 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 09:08:16 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 09:08:16 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 09:08:16 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 09:08:16 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 117
+[14-Jun-2023 09:08:16 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 120
+[14-Jun-2023 09:08:16 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 121
+[14-Jun-2023 09:08:16 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 122
+[14-Jun-2023 09:09:05 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 09:09:05 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 09:09:05 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 09:09:05 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 09:09:05 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 117
+[14-Jun-2023 09:09:05 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 120
+[14-Jun-2023 09:09:05 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 121
+[14-Jun-2023 09:09:05 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 122
+[14-Jun-2023 09:22:20 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 09:22:20 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 09:22:20 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 09:22:20 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 09:22:20 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 117
+[14-Jun-2023 09:22:20 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 120
+[14-Jun-2023 09:22:20 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 121
+[14-Jun-2023 09:22:20 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 122
+[14-Jun-2023 09:23:55 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 09:23:55 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 09:23:55 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 09:23:55 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 09:23:55 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 117
+[14-Jun-2023 09:23:55 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 120
+[14-Jun-2023 09:23:55 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 121
+[14-Jun-2023 09:23:55 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 122
+[14-Jun-2023 09:24:02 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 09:24:02 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 09:24:02 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 09:24:02 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 09:24:02 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 117
+[14-Jun-2023 09:24:02 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 120
+[14-Jun-2023 09:24:02 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 121
+[14-Jun-2023 09:24:02 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 122
+[14-Jun-2023 09:24:20 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 09:24:20 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 09:24:20 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 09:24:20 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 09:24:20 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 117
+[14-Jun-2023 09:24:20 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 120
+[14-Jun-2023 09:24:20 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 121
+[14-Jun-2023 09:24:20 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 122
+[14-Jun-2023 09:24:45 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 09:24:45 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 09:24:45 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 09:24:45 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 09:24:45 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 117
+[14-Jun-2023 09:24:45 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 120
+[14-Jun-2023 09:24:45 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 121
+[14-Jun-2023 09:24:45 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 122
+[14-Jun-2023 09:25:50 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 09:25:50 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 09:25:50 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 09:25:50 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 09:25:50 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 117
+[14-Jun-2023 09:25:50 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 120
+[14-Jun-2023 09:25:50 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 121
+[14-Jun-2023 09:25:50 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 122
+[14-Jun-2023 09:29:28 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 09:29:28 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 09:29:28 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 09:29:28 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 09:29:28 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 117
+[14-Jun-2023 09:29:28 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 120
+[14-Jun-2023 09:29:28 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 121
+[14-Jun-2023 09:29:28 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 122
+[14-Jun-2023 09:30:07 UTC] PHP Notice:  Undefined index: forget_count in D:\Apps\sere\sere\lockers2\act_pass.php on line 4
+[14-Jun-2023 09:30:08 UTC] PHP Notice:  Undefined index: forget_count in D:\Apps\sere\sere\lockers2\act_pass.php on line 4
+[14-Jun-2023 09:30:08 UTC] PHP Notice:  Undefined index: forget_count in D:\Apps\sere\sere\lockers2\act_pass.php on line 4
+[14-Jun-2023 09:30:08 UTC] PHP Notice:  Undefined index: forget_count in D:\Apps\sere\sere\lockers2\act_pass.php on line 4
+[14-Jun-2023 09:30:08 UTC] PHP Notice:  Undefined index: forget_count in D:\Apps\sere\sere\lockers2\act_pass.php on line 4
+[14-Jun-2023 09:30:08 UTC] PHP Notice:  Undefined index: forget_count in D:\Apps\sere\sere\lockers2\act_pass.php on line 4
+[14-Jun-2023 09:30:08 UTC] PHP Notice:  Undefined index: forget_count in D:\Apps\sere\sere\lockers2\act_pass.php on line 4
+[14-Jun-2023 09:31:30 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 09:31:30 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 09:31:30 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 09:31:30 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 09:31:30 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 117
+[14-Jun-2023 09:31:30 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 120
+[14-Jun-2023 09:31:30 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 121
+[14-Jun-2023 09:31:30 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 122
+[14-Jun-2023 09:32:26 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 09:32:26 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 09:32:26 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 09:32:26 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 09:32:26 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 117
+[14-Jun-2023 09:32:26 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 120
+[14-Jun-2023 09:32:26 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 121
+[14-Jun-2023 09:32:26 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 122
+[14-Jun-2023 09:32:40 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 09:32:40 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 09:32:40 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 09:32:40 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 09:32:40 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 118
+[14-Jun-2023 09:32:40 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 121
+[14-Jun-2023 09:32:40 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 122
+[14-Jun-2023 09:32:40 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 123
+[14-Jun-2023 09:33:17 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 09:33:17 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 09:33:17 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 09:33:17 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 09:33:17 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 121
+[14-Jun-2023 09:33:17 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 124
+[14-Jun-2023 09:33:17 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 125
+[14-Jun-2023 09:33:17 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 126
+[14-Jun-2023 09:33:27 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 09:33:27 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 09:33:27 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 09:33:27 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 09:33:27 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 121
+[14-Jun-2023 09:33:27 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 124
+[14-Jun-2023 09:33:27 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 125
+[14-Jun-2023 09:33:27 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 126
+[14-Jun-2023 09:33:28 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 09:33:28 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 09:33:28 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 09:33:28 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 09:33:28 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 121
+[14-Jun-2023 09:33:28 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 124
+[14-Jun-2023 09:33:28 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 125
+[14-Jun-2023 09:33:28 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 126
+[14-Jun-2023 09:33:29 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 09:33:29 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 09:33:29 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 09:33:29 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 09:33:29 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 121
+[14-Jun-2023 09:33:29 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 124
+[14-Jun-2023 09:33:29 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 125
+[14-Jun-2023 09:33:29 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 126
+[14-Jun-2023 09:33:29 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 09:33:29 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 09:33:29 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 09:33:29 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 09:33:29 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 121
+[14-Jun-2023 09:33:29 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 124
+[14-Jun-2023 09:33:29 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 125
+[14-Jun-2023 09:33:29 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 126
+[14-Jun-2023 09:33:38 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 09:33:38 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 09:33:38 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 09:33:38 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 09:33:38 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 121
+[14-Jun-2023 09:33:38 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 124
+[14-Jun-2023 09:33:38 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 125
+[14-Jun-2023 09:33:38 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 126
+[14-Jun-2023 09:35:25 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 09:35:25 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 09:35:25 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 09:35:25 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 09:35:25 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 121
+[14-Jun-2023 09:35:25 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 124
+[14-Jun-2023 09:35:25 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 125
+[14-Jun-2023 09:35:25 UTC] PHP Notice:  Undefined variable: user_plant in D:\Apps\sere\sere\lockers2\act_register.php on line 126
+[14-Jun-2023 09:35:38 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 09:35:38 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 09:35:38 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 09:35:38 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 09:35:44 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 09:35:44 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 09:35:44 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 09:35:44 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 09:36:59 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 09:36:59 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 09:36:59 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 09:36:59 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 97
+[14-Jun-2023 09:36:59 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 09:36:59 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 09:36:59 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 09:36:59 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 97
+[14-Jun-2023 09:37:12 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 09:37:12 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 09:37:12 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 09:37:12 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 97
+[14-Jun-2023 09:37:50 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 09:37:50 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 09:37:50 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 09:37:50 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 97
+[14-Jun-2023 09:38:00 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 09:38:00 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 09:38:00 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 09:38:00 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 97
+[14-Jun-2023 09:38:13 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 09:38:13 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 09:38:13 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 09:38:13 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 09:44:41 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 09:44:41 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 09:44:41 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 09:44:41 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 13:06:27 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 13:06:27 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 13:06:27 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 13:06:27 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 13:17:43 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 13:17:43 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 13:17:43 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 13:17:43 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 13:18:56 UTC] PHP Notice:  Undefined index: forget_count in D:\Apps\sere\sere\lockers2\act_pass.php on line 4
+[14-Jun-2023 13:19:03 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 13:19:03 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 13:19:03 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 13:19:03 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 13:19:14 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 13:19:14 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 13:19:14 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 13:19:14 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 13:19:14 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 13:19:14 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 13:19:14 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 13:19:14 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 13:20:40 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 13:20:40 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 13:20:40 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 13:20:40 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 13:20:46 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 13:20:46 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 13:20:46 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 13:20:46 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 13:20:53 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 13:20:53 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 13:20:53 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 13:20:53 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 13:21:01 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 13:21:01 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 13:21:01 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 13:21:01 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 13:21:02 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 13:21:02 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 13:21:02 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 13:21:02 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 13:21:03 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 13:21:03 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 13:21:03 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 13:21:03 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 13:21:04 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 13:21:04 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 13:21:04 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 13:21:04 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 13:21:16 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 13:21:16 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 13:21:16 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 13:21:16 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 13:21:16 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 13:21:16 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 13:21:16 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 13:21:16 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 13:21:16 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 13:21:16 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 13:21:16 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 13:21:16 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 13:21:31 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 13:21:31 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 13:21:31 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 13:21:31 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 13:21:33 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 13:21:33 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 13:21:33 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 13:21:33 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 13:21:34 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 13:21:34 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 13:21:34 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 13:21:34 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 13:21:34 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 13:21:34 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 13:21:34 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 13:21:34 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 13:21:35 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 13:21:35 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 13:21:35 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 13:21:35 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 13:21:39 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 13:21:39 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 13:21:39 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 13:21:39 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 13:22:08 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 75
+[14-Jun-2023 13:22:08 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 13:22:08 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 13:22:08 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 13:22:33 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 76
+[14-Jun-2023 13:22:33 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 13:22:33 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[14-Jun-2023 13:22:44 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 83
+[14-Jun-2023 13:22:44 UTC] PHP Notice:  Undefined variable: data in D:\Apps\sere\sere\lockers2\act_register.php on line 90
+[27-Jun-2023 10:09:19 UTC] PHP Notice:  Undefined index: forget_count in D:\Apps\sere\sere\lockers2\act_pass.php on line 4
+[04-Jul-2023 18:24:38 UTC] PHP Notice:  Undefined index: forget_count in D:\Apps\sere\sere\lockers2\act_pass.php on line 4
+[05-Jul-2023 06:43:18 UTC] PHP Notice:  Undefined index: forget_count in D:\Apps\sere\sere\lockers2\act_pass.php on line 4
+[05-Jul-2023 06:56:17 UTC] PHP Notice:  Undefined index: forget_count in D:\Apps\sere\sere\lockers2\act_pass.php on line 4
+[17-Jul-2023 10:00:36 UTC] PHP Notice:  Undefined index: forget_count in D:\Apps\sere\sere\lockers2\act_pass.php on line 4
+[18-Jul-2023 03:01:27 UTC] PHP Notice:  Undefined index: forget_count in D:\Apps\sere\sere\lockers2\act_pass.php on line 4

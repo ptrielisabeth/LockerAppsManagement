@@ -1,0 +1,16 @@
+body{
+  height:40vh;
+  width:40vw;
+}
+div{
+  display:grid;
+grid-template-columns: 1fr 2fr;
+grid-template-rows: 1fr,auto;
+  
+  grid-gap:1rem;
+}
+
+
+
+
+
